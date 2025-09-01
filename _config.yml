@@ -1,0 +1,7 @@
+title: "Мой сайт"
+description: "Заметки и материалы"
+theme: minima           # встроенная тема GitHub
+timezone: Europe/Belgrade
+plugins:
+  - jekyll-feed         # RSS
+  - jekyll-seo-tag      # SEO метатеги
